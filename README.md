@@ -15,3 +15,4 @@ Git教程 → https://www.liaoxuefeng.com/wiki/896043488029600
 3. 扩展名为`.txt`或`.md`。(Refer .txt or .md)
 
 Creating a new branch is quick.
+Creating a new branch is quick & simple
